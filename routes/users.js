@@ -8,7 +8,7 @@ router.get('/', function(req, res, next) {
 
 /* GET users listing. */
 router.get('/list', function(req, res, next) {
-  res.send('Here is the list');
+  res.send('Here i');
 });
 
 
